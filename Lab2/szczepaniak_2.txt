@@ -1,0 +1,3 @@
+'*' na początku nazwy funkcji oznacza pole z funckjami pomocniczymi - koniecznymi do poprawnego działania programu
+
+Przy włączaniu wizualizacji należy wprowadzić literę interesującego podpunktu(powinno wyskakiwać w funkcji input)
